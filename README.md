@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Managing development environments using Docker<br><br>🌱 Currently learning Advanced containerization techniques and machine learning<br><br>👯 I’m looking to collaborate on Machine learning and Python programming projects<br><br>🤝 I’m looking for help with Building Scalable and reproducible environments<br><br>👨‍💻 All of my projects are available at<br><br>💬 Ask me about Docker, Python, and machine learning.<br><br>🌐 Socials:
+🔭 I’m currently working on Managing development environments using Docker<br><br>🌱 Currently learning Advanced containerization techniques and machine learning<br><br>👯 I’m looking to collaborate on Machine learning and Python programming projects<br><br>🤝 I’m looking for help with Building Scalable and reproducible environments<br><br>👨‍💻 All of my projects are available at<bhttps://eria-education-regs-0yqsu0l.gamma.site/aboutr><br>💬 Ask me about Docker, Python, and machine learning.<br><br>🌐 Socials:
 
 
 ## 🌐 Socials:
